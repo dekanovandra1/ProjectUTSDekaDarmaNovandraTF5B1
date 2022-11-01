@@ -20,6 +20,8 @@ void main() {
   } else {
     grade = "D";
   }
-
-  print("Kamu ada di tingkat $grade");
+  print("Nama Mahasiswa = $nama");
+  print("Kelas = $kelas");
+  print("Mata Kuliah = $matkul");
+  print("Nilai Kamu = $grade");
 }
